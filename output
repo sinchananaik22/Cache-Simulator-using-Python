@@ -1,0 +1,7 @@
+Enter Cache Capacity (bytes): 1024
+Enter Block Size (bytes): 16
+Enter Main Memory Capacity (bytes): 16384
+Enter Associativity (direct, set_associative, fully_associative): set_associative
+Enter the number of lines per set (N for set_associative-N): 4
+Enter Replacement Policy (random, lru, fifo): lru
+Enter number of memory addresses to simulate: 5
